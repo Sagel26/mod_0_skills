@@ -1,0 +1,13 @@
+Dish
+
+attributes:
+size (string)
+shape (string)
+clean_yes (boolean)
+weight (float)
+
+methods:
+change_size (changes size attribute from large to small)
+change_shape (changes shape of dish from round to square)
+dirty (changes clean_yes attribute to false)
+add_food(increases weight attribute by 1)

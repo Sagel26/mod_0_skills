@@ -1,0 +1,15 @@
+Table
+
+attributes:
+total_number_of_seats(integer)
+available_yes(boolean)
+reserved_yes(boolean)
+seats_taken (integer)
+waiter (string)
+
+methods:
+
+add_chair (increases total_number_of_seats by 1)
+add_reservation (changes reserved_yes attribute to true)
+add_guest(increases seats_taken attribute by 1)
+change_waiter( changes the waiter attribute from Bob to Gary)

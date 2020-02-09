@@ -1,0 +1,15 @@
+Object: Booth
+
+attributes:
+total_number_of_seats: 4
+available_yes: false
+reserved_yes: false
+seats_taken: 3
+waiter: "Bob"
+
+methods:
+
+add chair: 5
+add_reservation: true
+add_guest: 4
+change_waiter: "Gary"

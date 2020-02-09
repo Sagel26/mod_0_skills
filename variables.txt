@@ -1,0 +1,10 @@
+food = "pizza"
+is_new = true
+food = "fruit"
+num1 = 3
+num2 = 2
+num1 * num2
+num3 =6
+movies = ["Shrek","Home Alone","Princess Bride"]
+movies.pop
+movies.length

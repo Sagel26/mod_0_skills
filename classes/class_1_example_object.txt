@@ -1,0 +1,13 @@
+Plate
+
+
+size: large
+shape: round
+clean_yes: true
+weight: 1.2
+
+
+change_size: small
+change_shape: square
+dirty: false
+add_food: 2.2
